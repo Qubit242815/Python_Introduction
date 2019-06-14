@@ -1,3 +1,5 @@
 # Python Introduction
-## Einführung
+## Authors
 Heidi
+## Date
+2019-06-14
